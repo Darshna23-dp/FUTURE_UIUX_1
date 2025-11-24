@@ -27,7 +27,8 @@ The goal of this task was to design a clean, simple, and user-friendly restauran
    - Checkout button
 
 ## 🔗 Figma Design Link
-https://www.figma.com/proto/Xpn4erGm6CWc7hNebcI2Lz/DineMate?page-id=0%3A1&node-id=5-44&p=f&viewport=20%2C113%2C0.13&t=n9AcaBDUYtBIjgbp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=5%3A44
+moblile link : https://www.figma.com/proto/Xpn4erGm6CWc7hNebcI2Lz/DineMate?page-id=0%3A1&node-id=5-44&p=f&viewport=20%2C113%2C0.13&t=n9AcaBDUYtBIjgbp-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=5%3A44
+website link :  https://www.figma.com/proto/Xpn4erGm6CWc7hNebcI2Lz/DineMate?page-id=30%3A780&node-id=37-524&p=f&viewport=49%2C79%2C0.11&t=I9DA3yBVLDb76aeS-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=37%3A524
 
 ## 📂 Folder Structure
 - **Screenshots folder** contains exported images of all designed screens.
